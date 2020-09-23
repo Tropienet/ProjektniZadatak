@@ -26,7 +26,7 @@ void addDeveloper(char*, unsigned int*);
 void readDevelopersName(char*, unsigned int*);
 void fileExit(void);
 void readDevelopersJob(char*, unsigned int*);
-void deleteDeveloper(char*, unsigned int*);
+
 void izbornik(char*, unsigned int*);
 
 #endif HEADER_H

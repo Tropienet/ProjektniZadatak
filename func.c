@@ -294,9 +294,7 @@ void ispisKorisnika(char* file, unsigned int* pBrojDevelopera) {
 	}
 }
 
-void deleteDeveloper(char* file, unsigned int* brojDevelopera) {
 
-}
 
 void izbornik(char* file, unsigned int* pBrojDevelopera) {
 	
@@ -304,7 +302,7 @@ void izbornik(char* file, unsigned int* pBrojDevelopera) {
 	unsigned int izbornik = -1;
 
 	while (1) {
-		system("cls");
+		
 		printf("\
 				\n1. Dodavanje novih developera\
 				\n2. Trazenje developera po imenu\
